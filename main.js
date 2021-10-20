@@ -11,7 +11,9 @@ var course=[
         coin:0
     }
 ]
-
+myFunction(
+    document.getElementById('demo').innerHTML = 'Anh cho em xiền mua sờ chinh'
+)
 var newcourse=course.map(function () {
     
 })
